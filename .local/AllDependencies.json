@@ -3500,15 +3500,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thehu\\.nuget\\packages\\": {}
+    "C:\\Users\\seah\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "뉴스크롤링",
       "projectName": "뉴스크롤링",
-      "projectPath": "D:\\WORK\\RPA\\뉴스크롤링\\.local",
-      "packagesPath": "C:\\Users\\thehu\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\RPA\\뉴스크롤링\\.local"
+      "projectPath": "C:\\git\\.local",
+      "packagesPath": "C:\\Users\\seah\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\.local"
     },
     "frameworks": {
       "net461": {
